@@ -20,5 +20,5 @@ I like Frontend because it's really thrilling me to create something new and to 
 ### Education
 I have a diploma of specialist in customs sphere of Russian Customs Academy. My major was Technical and Computer Tools of Customs Control and Criminology.  
 Also I prefer to pass courses in Udemy like Node.js or React courses.
-
-
+### English
+I have B1 level of English, but I'm trying to improve it every day and getting course in English school. Now I have no problems to speak with foreigners be it Europe or Asia. Also I prefer getting information from english language sources as Udemy, Medium and writing technical documentations in english is not a problem.

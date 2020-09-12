@@ -16,6 +16,9 @@ Here is the [link to repository](https://github.com/babkinevgeny/rightsEncoder).
 During this task I had known a lot about graphs, working with them, how we can store them in different data structures.  
 You can find more code examples in my [github account](https://github.com/babkinevgeny).
 ### Summary
-I like Frontend because it's really thrilling me to create something new and to understand that I am a piece of something big and useful for people, for example, our working project for logistics. It's an app which is used by retailing giants like X5 Group and it's so inspiring to be participated in. So these things motivate me to improve my skills and become better every day.
+I like Frontend because it's really thrilling me to create something new and to understand that I am a piece of something big and useful for people, for example, our working project for logistics. It's an app which is used by retailing giants like X5 Group and it's so inspiring to be participated in. So these things motivate me to improve my skills and become better every day.  
+### Education
+I have a diploma of specialist in customs sphere of Russian Customs Academy. My major was Technical and Computer Tools of Customs Control and Criminology.  
+Also I prefer to pass courses in Udemy like Node.js or React courses.
 
 

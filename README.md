@@ -1,1 +1,0 @@
-[https://babkinevgeny.github.io/rsschool-cv/cv](https://babkinevgeny.github.io/rsschool-cv/cv)
